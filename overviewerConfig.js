@@ -10,7 +10,7 @@ var overviewerConfig = {
                 256
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1465493950, 
+            "last_rendertime": 1465507675, 
             "name": "Normal Hungry Render", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -23,6 +23,28 @@ var overviewerConfig = {
             "world": "Hungry", 
             "maxZoom": 6, 
             "path": "normalrender", 
+            "showlocationmarker": true
+        }, 
+        {
+            "spawn": [
+                244, 
+                64, 
+                256
+            ], 
+            "isOverlay": false, 
+            "last_rendertime": 1465507675, 
+            "name": "Caves", 
+            "poititle": "Markers", 
+            "north_direction": 0, 
+            "minZoom": 0, 
+            "bgcolor": "#1a1a1a", 
+            "zoomLevels": 6, 
+            "base": "", 
+            "imgextension": "png", 
+            "defaultZoom": 1, 
+            "world": "Hungry", 
+            "maxZoom": 6, 
+            "path": "caverender", 
             "showlocationmarker": true
         }
     ], 
@@ -60,6 +82,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1465494040"
+        "cacheTag": "1465507801"
     }
 };
