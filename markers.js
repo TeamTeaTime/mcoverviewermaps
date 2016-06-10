@@ -1,48 +1,32 @@
 var markers={
   "normalrender2": [
     {
-      "groupName": "All_signse9e5_02c1", 
+      "groupName": "Signs94d6_57a9", 
       "icon": "signpost_icon.png", 
       "createInfoWindow": true, 
-      "displayName": "All signs", 
-      "checked": false
+      "displayName": "Signs", 
+      "checked": true
     }, 
     {
-      "groupName": "Players1614_02c1", 
+      "groupName": "Players94b8_57a9", 
       "icon": "signpost_icon.png", 
       "createInfoWindow": true, 
       "displayName": "Players", 
-      "checked": false
+      "checked": true
     }, 
     {
-      "groupName": "Bedse9d6_02c1", 
+      "groupName": "Town6b23_57a9", 
+      "icon": "signpost_icon.png", 
+      "createInfoWindow": true, 
+      "displayName": "Town", 
+      "checked": true
+    }, 
+    {
+      "groupName": "Beds94e5_57a9", 
       "icon": "signpost_icon.png", 
       "createInfoWindow": true, 
       "displayName": "Beds", 
-      "checked": false
-    }
-  ], 
-  "normalrender": [
-    {
-      "groupName": "All_signse9e5_029d", 
-      "icon": "signpost_icon.png", 
-      "createInfoWindow": true, 
-      "displayName": "All signs", 
-      "checked": false
-    }, 
-    {
-      "groupName": "Players1614_029d", 
-      "icon": "signpost_icon.png", 
-      "createInfoWindow": true, 
-      "displayName": "Players", 
-      "checked": false
-    }, 
-    {
-      "groupName": "Bedse9d6_029d", 
-      "icon": "signpost_icon.png", 
-      "createInfoWindow": true, 
-      "displayName": "Beds", 
-      "checked": false
+      "checked": true
     }
   ]
 };

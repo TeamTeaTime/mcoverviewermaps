@@ -1,31 +1,8 @@
 var overviewerConfig = {
     "worlds": [
-        "Hungry", 
         "Realm"
     ], 
     "tilesets": [
-        {
-            "spawn": [
-                244, 
-                64, 
-                256
-            ], 
-            "isOverlay": false, 
-            "last_rendertime": 1465520410, 
-            "name": "Normal Hungry Render", 
-            "poititle": "Markers", 
-            "north_direction": 0, 
-            "minZoom": 0, 
-            "bgcolor": "#1a1a1a", 
-            "zoomLevels": 6, 
-            "base": "", 
-            "imgextension": "png", 
-            "defaultZoom": 1, 
-            "world": "Hungry", 
-            "maxZoom": 6, 
-            "path": "normalrender", 
-            "showlocationmarker": true
-        }, 
         {
             "spawn": [
                 467, 
@@ -50,23 +27,23 @@ var overviewerConfig = {
         }, 
         {
             "spawn": [
-                244, 
-                64, 
-                256
+                467, 
+                71, 
+                -215
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1465520410, 
+            "last_rendertime": 1465431659, 
             "name": "Caves", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
-            "zoomLevels": 6, 
+            "zoomLevels": 8, 
             "base": "", 
             "imgextension": "png", 
             "defaultZoom": 1, 
-            "world": "Hungry", 
-            "maxZoom": 6, 
+            "world": "Realm", 
+            "maxZoom": 8, 
             "path": "caverender", 
             "showlocationmarker": true
         }
@@ -105,6 +82,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1465521822"
+        "cacheTag": "1465571380"
     }
 };
